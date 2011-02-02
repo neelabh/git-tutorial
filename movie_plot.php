@@ -30,7 +30,7 @@ class MoviePlotGenerator {
 	 *
 	 * Get the plot of the next blockbuster action flick.
 	 * 
-	 * @return string
+	 * @return  string
 	 */
 	public function getPlot()
 	{
